@@ -445,9 +445,6 @@ To run the server in production:
 npm start
 \`\`\`
 
-## License
-
-ISC
 
 ## Support
 
